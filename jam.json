@@ -1,0 +1,50 @@
+{
+    "FM_TEST1": {
+        "Bandwidth": "10MHz", 
+        "Freq": 914e5
+    },
+    "FM_TEST2": {
+        "Bandwidth": "20MHz", 
+        "Freq": 915e5
+    },    
+    "FM_TEST3": {
+        "Bandwidth": "10MHz", 
+        "Freq": 916e5
+    },
+    "FM_TEST4": {
+        "Bandwidth": "20MHz", 
+        "Freq": 917e5
+    }, 
+    "FM_TEST5": {
+        "Bandwidth": "10MHz", 
+        "Freq": 919e5
+    },
+    "FM_TEST6": {
+        "Bandwidth": "20MHz", 
+        "Freq": 921e5
+    },
+    "FM_TEST7": {
+        "Bandwidth": "10MHz", 
+        "Freq": 925e5
+    },
+    "FM_TEST8": {
+        "Bandwidth": "20MHz", 
+        "Freq": 928e5
+    },    
+    "FM_TEST9": {
+        "Bandwidth": "10MHz", 
+        "Freq": 933e5
+    },
+    "FM_TEST10": {
+        "Bandwidth": "20MHz", 
+        "Freq": 936e5
+    }, 
+    "FM_TEST11": {
+        "Bandwidth": "10MHz", 
+        "Freq": 941e5
+    },
+    "FM_TEST12": {
+        "Bandwidth": "20MHz", 
+        "Freq": 945e5
+    }       
+}
